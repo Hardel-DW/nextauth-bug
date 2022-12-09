@@ -6,7 +6,7 @@
 3. use yarn
 4. start the project with next dev
 
-Reproduce bug :
+# Reproduce bug :
 1. Setup project and start the project
 2. Go to locahlhost:3000/api/auth/signin
 3. See the error
